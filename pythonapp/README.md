@@ -1,4 +1,4 @@
-### this python app was created to be the second  solution after  the fist solution (web application)
+### this python app was created to be the second  solution after  the first solution (web application)
 this tkinter windows allow you to create and connect branches only and generate the code c# and we can also add a button that allow you to generate the dll code by using this python script :
 
 	
